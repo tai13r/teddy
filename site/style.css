@@ -1,0 +1,72 @@
+ .salesh1b {
+    font-family: merriweather,serif;
+    font-size: 35px;
+    line-height: 1.3em;
+    color: #444;
+    font-weight: 700;
+    margin: 0 auto;
+        margin-bottom: 0px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+body.mainpage, .mainpage p {
+    font-family: merriweather,serif;
+    font-size: 20px;
+    line-height: 1.5em;
+    color: #444;
+    margin: 0 auto;
+    padding: 12px 0;
+  text-align: left;
+}
+
+body.mainpage, ,mainpage #body {
+     background: #fff;   
+}
+
+
+
+
+.mainpage #wrap {
+    width: 700px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    background: #fff;
+    border: 0;
+    box-shadow: none;
+    padding: 0;
+    margin: 0 auto;
+    float: none;
+    }
+
+#inner {
+    margin: 20px auto;
+    overflow: hidden;
+    padding: 20px 40px;
+}
+.full-width-content.page-template-page_landingnoheader-php #content {
+    width: 600px;
+}
+#content {
+    float: left;
+    padding: 0 10px 10px;
+}
+img.aligncenter {
+    display: block;
+  margin: 0 auto 20px;
+}
+img {
+    height: auto;
+  max-width: 100%;
+}
+
+.salesh2b {
+    font-family: merriweather,serif;
+    font-size: 30px;
+    line-height: 1.3em;
+    color: #444;
+    font-weight: 700;
+    margin: 0 auto;
+        margin-bottom: 0px;
+    text-align: left;
+    margin-bottom: 10px;
